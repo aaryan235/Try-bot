@@ -25,14 +25,14 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "TAKLU BABU",
-    "PREFIX": "#",
+    "BOTNAME": "MOTU BABU",
+    "PREFIX": ".",
     "OTHERBOT": [
         ""
     ],
     "UNSENTVIP": [
-        "100070531069371",
-        "100043895143106",
+        "100004469851919",
+        "",
         "",
         "",
         "",
@@ -40,13 +40,13 @@
         ""
     ],
     "GOD": [
-        "100070531069371",
-        "100043895143106",
+        "100004469851919",
+        "",
         ""
     ],
     "ADMINBOT": [
-        "100043895143106",
-        "100070531069371",
+        "100004469851919",
+        "",
         "",
         "",
         "",
@@ -55,10 +55,10 @@
         "",
         ""
     ],
-    "OWNER": "MR PREM BABU",
+    "OWNER": "MR AARYAN BABU",
     "AGE": "23",
     "GENDER": "MALE",
-    "FACEBOOK": "https://www.facebook.com/prembabu001",
+    "FACEBOOK": "https://www.facebook.com/Mr.Aaryan.babu",
     "AutoOffBot": "disable",
     "AutoOffBotStartSleep": "disable",
     "AutoOffBotSendMessage": "Bye everyone. i need to sleep i'll be right back at 5:00AM 🥰",
